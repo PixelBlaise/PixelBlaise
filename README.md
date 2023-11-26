@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning HTML5, CSS3, JS and React.
 - 💞️ I am looking for a new job in a front-end developer position in Hungary.
-- 📫 How to reach me: box.at.balazs@gmail.com
+- 📫 How to reach me: box DOT at DOT balazs AT gmail DOT com
 
 <!---
 PixelBlaise/PixelBlaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
